@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi Stalker 👋
+### I'm Front-End developer and Product designer but, above all, a problem solver. 👩🏽‍💻
 
-<!--
-**camilarociodiaz/camilarociodiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work hard to create incredible experiences designing, developing, testing, and debugging responsive web and mobile applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase) ![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=html5) ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=css)  ![SASS](https://img.shields.io/badge/SASS-%2320232a.svg?style=for-the-badge&logo=SASS&logoColor=SASS) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-%2320232a?style=for-the-badge&logo=react-router&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2320232a?style=for-the-badge&logo=bootstrap&logoColor=bootstrap) ![MUI](https://img.shields.io/badge/Material_ui-%2320232a?style=for-the-badge&logo=mui&logoColor=bui) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Design Stack
+![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=figma)  ![Photoshop](https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=photoshop)  ![Illustrator](https://img.shields.io/badge/illustrator-%2320232a.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=adobe-illustrator) 
+
+
+
+🌱 I’m currently learning UX/UI Design to improve the interface of my coded products 🚀
+
+
+
+👾 And yes, I'm a true fan of the Dino chrome game. 
+
+![dino-chrome](https://user-images.githubusercontent.com/88467842/204612818-c2ffe9b2-7b09-48d4-b9b8-f316297c0cc7.gif)
+
+## ⛓️ My social media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a.svg?logo=linkedin&logoColor=%230077B5)](https://www.linkedin.com/in/camilarociodiaz/?locale=en_US) 
+[![Youtube](https://img.shields.io/badge/Youtube-%2320232a.svg?logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC2M-4lrHWRC2N6ZucbsCEJw) 
+[![Instagram](https://img.shields.io/badge/Instagram-%2320232a.svg?logo=instagram&logoColor=instagram)](https://www.instagram.com/camilarociodiaz/)
