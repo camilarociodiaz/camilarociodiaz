@@ -17,7 +17,9 @@ I work hard to create incredible experiences designing, developing, testing, and
 
 👾 And yes, I'm a true fan of the Dino chrome game. 
 
-![dino-chrome](https://user-images.githubusercontent.com/88467842/204612818-c2ffe9b2-7b09-48d4-b9b8-f316297c0cc7.gif)
+![google-chrome-dinosaur-game](https://user-images.githubusercontent.com/88467842/204645024-4ce4e1a4-3fce-4df4-9aa4-5e6a027ecf61.gif)
+
+
 
 ## ⛓️ My social media
 
